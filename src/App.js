@@ -27,16 +27,16 @@ class MyApp extends React.Component {
   render() {
     const bodyStyle = {
       textAlign: "center",
-      border: "solid 3px silver",
+      border: "solid 5px black",
       borderRadius: "5em",
-      backgroundColor: "grey",
-      width: "auto",
+      backgroundColor: "#3CAEA3",
+      width: "50%",
       margin: "auto"
     }
     const h1Style = {
       color: "blue",
       padding: ".5em",
-      textShadow: "2px 2px 2px black"
+      textShadow: "0px 0px 10px white"
     }
     const textStyle = {
       padding: "1em",
