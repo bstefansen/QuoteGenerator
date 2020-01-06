@@ -30,8 +30,9 @@ class MyApp extends React.Component {
       border: "solid 5px black",
       borderRadius: "5em",
       backgroundColor: "#3CAEA3",
-      width: "50%",
-      margin: "auto"
+      width: "75%",
+      margin: "auto",
+      boxShadow: "2px 2px 10px black"
     }
     const h1Style = {
       color: "blue",
@@ -48,7 +49,8 @@ class MyApp extends React.Component {
       margin: "1em",
       backgroundColor: "blue",
       color: "white",
-      borderRadius: "1em"
+      borderRadius: "1em",
+      boxShadow: "2px 2px 10px black"
     }
     return (
       <div style={bodyStyle}>
