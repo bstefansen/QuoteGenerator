@@ -29,15 +29,18 @@ class MyApp extends React.Component {
       textAlign: "center",
       border: "solid 5px black",
       borderRadius: "5em",
-      backgroundColor: "#3CAEA3",
+      background: 'linear-gradient(silver, #3CAEA3)',
       width: "75%",
       margin: "auto",
       boxShadow: "2px 2px 10px black"
     }
     const h1Style = {
       color: "blue",
-      padding: ".5em",
-      textShadow: "0px 0px 10px white"
+      fontWeight: "bold",
+      borderRadius: "5em",
+      width: "100%",
+      margin: "auto",
+      padding: ".25em",
     }
     const textStyle = {
       padding: "1em",
@@ -50,8 +53,9 @@ class MyApp extends React.Component {
       backgroundColor: "blue",
       color: "white",
       borderRadius: "1em",
-      boxShadow: "2px 2px 10px black"
+      boxShadow: "2px 2px 10px black",
     }
+    
     return (
       <div style={bodyStyle}>
         <h1 style={h1Style}>Random Quote Generator</h1>
