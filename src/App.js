@@ -37,10 +37,10 @@ class MyApp extends React.Component {
     const h1Style = {
       color: "blue",
       fontWeight: "bold",
-      borderRadius: "5em",
       width: "100%",
       margin: "auto",
       padding: ".25em",
+
     }
     const textStyle = {
       padding: "1em",
