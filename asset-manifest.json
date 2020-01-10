@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QuoteGenerator/static/css/main.d882b92c.chunk.css",
-    "main.js": "/QuoteGenerator/static/js/main.62796d25.chunk.js",
-    "main.js.map": "/QuoteGenerator/static/js/main.62796d25.chunk.js.map",
+    "main.js": "/QuoteGenerator/static/js/main.915f7470.chunk.js",
+    "main.js.map": "/QuoteGenerator/static/js/main.915f7470.chunk.js.map",
     "runtime-main.js": "/QuoteGenerator/static/js/runtime-main.e1da4bf5.js",
     "runtime-main.js.map": "/QuoteGenerator/static/js/runtime-main.e1da4bf5.js.map",
     "static/js/2.f1f46ac5.chunk.js": "/QuoteGenerator/static/js/2.f1f46ac5.chunk.js",
     "static/js/2.f1f46ac5.chunk.js.map": "/QuoteGenerator/static/js/2.f1f46ac5.chunk.js.map",
     "index.html": "/QuoteGenerator/index.html",
-    "precache-manifest.bc1a33544c9d17c51af6921a2bd581c5.js": "/QuoteGenerator/precache-manifest.bc1a33544c9d17c51af6921a2bd581c5.js",
+    "precache-manifest.61e21ca89c78548a85b3cd4a1cf05ccf.js": "/QuoteGenerator/precache-manifest.61e21ca89c78548a85b3cd4a1cf05ccf.js",
     "service-worker.js": "/QuoteGenerator/service-worker.js",
     "static/css/main.d882b92c.chunk.css.map": "/QuoteGenerator/static/css/main.d882b92c.chunk.css.map",
     "static/js/2.f1f46ac5.chunk.js.LICENSE": "/QuoteGenerator/static/js/2.f1f46ac5.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e1da4bf5.js",
     "static/js/2.f1f46ac5.chunk.js",
     "static/css/main.d882b92c.chunk.css",
-    "static/js/main.62796d25.chunk.js"
+    "static/js/main.915f7470.chunk.js"
   ]
 }
